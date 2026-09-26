@@ -1,1 +1,1 @@
-print("Hola desde el CMD") 
+print("Hola Git ya estoy desde el interprete VS Code") 
